@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a passionate Computer Science and Engineering student at Islamic University of Technology, Bangladesh, with a keen interest in web, android, and software development. My journey in the world of programming began with a curiosity to solve real-world problems through technology.
+I am a passionate Computer Science and Engineering student at Islamic University of Technology, Bangladesh, with a keen interest in ml, web and software development. My journey in the world of programming began with a curiosity to solve real-world problems through technology.
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on **Nobanno**, an exciting web project aiming to solve various farming problems through digitalization and AI.
+- 🔭 I'm currently working on usability of state-of-the-art NLP models to solve real problems.
 - 🌱 I’m always learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open source projects and interesting ideas.
 - 💬 Ask me about Web/Software Development.
